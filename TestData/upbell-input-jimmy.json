@@ -1,0 +1,18 @@
+[
+    {
+        "summary": "Jimmy 1st Period",
+        "location": "Austin Middle School",
+        "description": "First period bell for Jimmy",
+        "date": "2020-10-25",
+        "startTime": "08:30:00",
+        "endTime": "08:35:00"
+    },
+    {
+        "summary": "Jimmy 2nd Period",
+        "location": "Austin Middle School",
+        "description": "Second period bell for Jimmy",
+        "date": "2020-10-25",
+        "startTime": "09:30:00",
+        "endTime": "09:35:00"
+    }
+]
